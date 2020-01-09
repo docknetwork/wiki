@@ -11,7 +11,7 @@
 
 ## Content Format
 
-- All wiki pages must be submitted as standard markdown (.md) files in [/docs](https://github.com/docknetwork/wiki/docs/) without subfolders, more organization will be introduced as our page number grows.
+- All wiki pages must be submitted as standard markdown (.md) files in [/docs](https://github.com/docknetwork/wiki/tree/master/docs) without subfolders, more organization will be introduced as our page number grows.
 - See [Mastering Markdown in GitHub Guides](https://guides.github.com/features/mastering-markdown/) for help with markdown formatting.
 
 Maintainer: Steven Pattison (@srpattison)
